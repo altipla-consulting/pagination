@@ -1,0 +1,9 @@
+
+syntax = "proto3";
+
+package pagination;
+
+message PaginationStatus {
+  string params_checksum = 1;
+  string cursor = 2;
+}
