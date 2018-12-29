@@ -1,6 +1,8 @@
 
 # pagination
 
+> **DEPRECATED:** Use https://github.com/altipla-consulting/libs instead.
+
 [![GoDoc](https://godoc.org/github.com/altipla-consulting/pagination?status.svg)](https://godoc.org/github.com/altipla-consulting/pagination)
 
 
